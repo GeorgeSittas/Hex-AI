@@ -92,4 +92,4 @@ In each round, the user is prompted to enter a directive. The following directiv
 
 ## Authors
 - George Sittas
-- John Zervakis
+- [John Zervakis](https://github.com/johnzerv)
