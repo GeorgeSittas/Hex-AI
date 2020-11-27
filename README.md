@@ -1,6 +1,7 @@
 # Hex
 Goal for this project is to make the board game [Hex](https://en.wikipedia.org/wiki/Hex_(board_game)) and a
-competitive [rational agent](https://en.wikipedia.org/wiki/Rational_agent), using C. The game window looks like this:
+competitive [rational agent](https://en.wikipedia.org/wiki/Rational_agent) that can play it, using C.<br/>
+The game window looks like this:
 
 ![](https://i.imgur.com/ybZ5tGg.png)
 
